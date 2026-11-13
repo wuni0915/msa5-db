@@ -10,4 +10,3 @@ SELECT * FROM employees;
 DROP DATABASE test;
 -- 세션: 접속요청, 요청이 끝남 접속되어있는
 -- 상황이 세션이 유지중이다 라고함. 이 라이프사이클을
--- 
